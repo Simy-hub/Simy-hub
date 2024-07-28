@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Simy-hub
+- 👋 Hi, I’m @Harper-hub
 - 👀 I’m interested in develop applet
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on learning c++ and Matlab, developing apps that can help others. 
